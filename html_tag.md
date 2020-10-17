@@ -1,0 +1,17 @@
+# Các HTML tag cơ bản
+- Tag *html*: xác định một tài liệu html
+- Tag *header*: xác định phần đầu của trang web
+- Tag *body*: Xác định phần thân của tài liệu HTML
+- Tag *meta*: Cung cấp thêm "thông tin về trang web" cho trình duyệt và các công cụ tìm kiếm
+- Tag *div*: Nhóm các phần tử lại với nhau để tiện cho việc định dạng cũng như thiết kế bố cục của trang web
+- Tag *section*: 
+- Tag *table*: Xác định phần tử là một cái bảng
+- Tag *br*: Chèn một ngắt xuống dòng
+- Tag *hr*: Tạo một đường kẻ phân cách nằm ngang
+- Tag *img*: Chèn hình ảnh vào trang web
+- Tag *audio*: Tạo một "trình phát nhạc" cho trang web
+- Tag *video*: Tạo một "trình xem phim" cho trang web
+- Tag *h1-h6*: Tạo những đề mục quan trọng trong trang web
+- Tag *p*: Xác định một đoạn văn bản
+- Tag *script*: Dùng để làm thùng chứa cho các câu lệnh JavaScript
+- Tag *style*: Dùng để làm thùng chứa cho các đoạn mã CSS
